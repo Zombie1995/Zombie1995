@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zombie1995
+<!-- - 👋 Hi, I’m @Zombie1995
 - 👀 I’m interested in fluid simulations.
 - 🌱 I’m currently learning Unity features.
-- 📫 How to reach me: egorkerber1995@mail.ru
+- 📫 How to reach me: egorkerber1995@mail.ru -->
 
 <!---
 - 💞️ I’m looking to collaborate on ...
